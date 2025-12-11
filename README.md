@@ -1,6 +1,5 @@
 # 👋 Bem-vindo ao universo **ZenithCodePT**
 
-Este repositório é especial — representa a identidade pública da **ZenithCodePT** no GitHub.  
 Aqui mostramos ao mundo a nossa visão, valores e o compromisso com a excelência tecnológica.
 
 ---
