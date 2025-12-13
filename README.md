@@ -1,3 +1,9 @@
+<!-- README.md -->
+
+<p align="center">
+  <img src="./assets/logo.svg" alt="ZenithCodePT" width="1000" />
+</p>
+
 # 👋 Bem-vindo ao universo **ZenithCodePT**
 
 Aqui mostramos ao mundo a nossa visão, valores e o compromisso com a excelência tecnológica.
