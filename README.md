@@ -55,7 +55,7 @@ A **ZenithCodePT** oferece soluções completas para empresas e projetos individ
 
 ## 🌐 Ligações importantes
 
-- Portfólio: *em breve*  
+- Portfólio: [https://zenithcodept.github.io/](https://zenithcodept.github.io/)  
 - Contacto para serviços: zenithcodept@proton.me  
 - Documentação e templates internos: *em breve*  
 
